@@ -3,7 +3,7 @@
  * Function for post/page duplication.
  * Add it to your functions.php file.
  * Because sometimes you don't want to install a plugin.
- * @todo Make it a plugin for FP to use when needed
+ * @todo Make it a plugin when needed
  *
  * Select one hook at the bottom of the file. Note page_row_actions or post_row_actions.
  *
